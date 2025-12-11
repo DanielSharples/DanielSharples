@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm Daniel, a Computer Science undergraduate from the UK.
+I mostly work in python and front end web development (html, CSS, JS).
+I want to learn C++ for game development.
+Here I will upload anything that I am working on for people to see.
 
+Languages:
+Python
+html
+CSS
+JavaScript
 <!--
 **DanielSharples/DanielSharples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
